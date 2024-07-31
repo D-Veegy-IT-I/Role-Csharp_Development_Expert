@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Exercism-Local\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD1C370-4B37-41A9-AB49-4AC622E942AC}|..\\..\\..\\Users\\tibov\\Exercism\\csharp\\crypto-square\\CryptoSquare.csproj|c:\\users\\tibov\\exercism\\csharp\\crypto-square\\cryptosquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD1C370-4B37-41A9-AB49-4AC622E942AC}|..\\..\\..\\Users\\tibov\\Exercism\\csharp\\crypto-square\\CryptoSquare.csproj|c:\\users\\tibov\\exercism\\csharp\\crypto-square\\cryptosquaretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CryptoSquareTests.cs",
+              "DocumentMoniker": "C:\\Users\\tibov\\Exercism\\csharp\\crypto-square\\CryptoSquareTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\tibov\\Exercism\\csharp\\crypto-square\\CryptoSquareTests.cs",
+              "ToolTip": "C:\\Users\\tibov\\Exercism\\csharp\\crypto-square\\CryptoSquareTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\tibov\\Exercism\\csharp\\crypto-square\\CryptoSquareTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:23:40.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CryptoSquare.cs",
+              "DocumentMoniker": "C:\\Users\\tibov\\Exercism\\csharp\\crypto-square\\CryptoSquare.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\tibov\\Exercism\\csharp\\crypto-square\\CryptoSquare.cs",
+              "ToolTip": "C:\\Users\\tibov\\Exercism\\csharp\\crypto-square\\CryptoSquare.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\tibov\\Exercism\\csharp\\crypto-square\\CryptoSquare.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:21:00.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
