@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoSquare", "..\..\..\Users\tibov\Exercism\csharp\crypto-square\CryptoSquare.csproj", "{ADD1C370-4B37-41A9-AB49-4AC622E942AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoSquare", "crypto-square\CryptoSquare.csproj", "{4C70961D-C194-485A-9CF0-B700C2247067}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ADD1C370-4B37-41A9-AB49-4AC622E942AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADD1C370-4B37-41A9-AB49-4AC622E942AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADD1C370-4B37-41A9-AB49-4AC622E942AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADD1C370-4B37-41A9-AB49-4AC622E942AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C70961D-C194-485A-9CF0-B700C2247067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C70961D-C194-485A-9CF0-B700C2247067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C70961D-C194-485A-9CF0-B700C2247067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C70961D-C194-485A-9CF0-B700C2247067}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4A892174-C941-4525-9FA6-CA6B49AF4977}
+		SolutionGuid = {DE123A46-5A6D-4B26-B423-DB053743BE2A}
 	EndGlobalSection
 EndGlobal
