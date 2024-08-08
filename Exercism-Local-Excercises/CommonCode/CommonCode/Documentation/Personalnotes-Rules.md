@@ -3,6 +3,7 @@
 ## Rules
 
 1) Use explicit interface implementations wherever possible [Link to mechanic file](./Personalnotes-Explicit_Interface_Implementations-Default_Interface_Members.md)
+   
    - SOC (Separation of Concerns) compliance:
      
      - Maintain separation between core class API and additional interface API
@@ -12,40 +13,40 @@
      - Explicit interfaces are immume to naming conflicts
 
 2- Use Default interface members wherever possible
-   
-   - DIP (Dependency Inversion Protocol) compliance:
-     
-     - Whenever one interface relies upon its implementation elsewhere,
-       any concrete change to the interface equates to change for dependants
-     
-     - Whenever one interface is relied upon for default interface members,
-       any concrete change to the interface equates to no change for dependants
+
+- DIP (Dependency Inversion Protocol) compliance:
+  
+  - Whenever one interface relies upon its implementation elsewhere,
+    any concrete change to the interface equates to change for dependants
+  
+  - Whenever one interface is relied upon for default interface members,
+    any concrete change to the interface equates to no change for dependants
 
 3- Avoid using automatic properties wherever possible
-   
-   - SRP (Single Responsability Protocol) compliance:
-     
-     - Both the static constructor and any instance constructors have respective
-       responsabilities over the initialization of any type static or instance states
-     
-     - Automatic properties hide intialization logic that belongs to constuctors
-     
-     - Any concrete changes to initialization are centralized to constructors,
-       unless various automatic properties inhibit this architectural tenet
+
+- SRP (Single Responsability Protocol) compliance:
+  
+  - Both the static constructor and any instance constructors have respective
+    responsabilities over the initialization of any type static or instance states
+  
+  - Automatic properties hide intialization logic that belongs to constuctors
+  
+  - Any concrete changes to initialization are centralized to constructors,
+    unless various automatic properties inhibit this architectural tenet
 
 4- Initialize any declarations as default, thus separating declaration and assignment
-   
+
    1- SRP and SOC
-      
+
       - Use class-level and method-level constructs to separate and delegate
         the acts of declaring a state, then (re)initializing that state appropriately
-      
+    
       - Enables anyone to locate any development, debugging and testing tasks
-
-
-
-
-
+    
+    
+    
+    
+    
     #region Design Considerations
     /* List:
      * Pure functions -> Solely returns a value, no side effects or scope breaches

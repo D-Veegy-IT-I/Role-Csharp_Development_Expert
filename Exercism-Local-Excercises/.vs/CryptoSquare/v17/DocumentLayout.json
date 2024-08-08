@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C70961D-C194-485A-9CF0-B700C2247067}|CryptoSquare.csproj|c:\\1.0-files\\1.1.1-role-csharp_development_expert\\github-root\\role-csharp_development_expert\\exercism-local-excercises\\crypto-square\\cryptosquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C70961D-C194-485A-9CF0-B700C2247067}|CryptoSquare.csproj|solutionrelative:crypto-square\\cryptosquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C70961D-C194-485A-9CF0-B700C2247067}|crypto-square\\CryptoSquare.csproj|c:\\1.0-files\\1.1.1-role-csharp_development_expert\\github-root\\role-csharp_development_expert\\exercism-local-excercises\\crypto-square\\cryptosquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C70961D-C194-485A-9CF0-B700C2247067}|crypto-square\\CryptoSquare.csproj|solutionrelative:crypto-square\\cryptosquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C70961D-C194-485A-9CF0-B700C2247067}|crypto-square\\CryptoSquare.csproj|c:\\1.0-files\\1.1.1-role-csharp_development_expert\\github-root\\role-csharp_development_expert\\exercism-local-excercises\\crypto-square\\cryptosquaretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C70961D-C194-485A-9CF0-B700C2247067}|crypto-square\\CryptoSquare.csproj|solutionrelative:crypto-square\\cryptosquaretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CryptoSquareTests.cs",
+              "DocumentMoniker": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\crypto-square\\CryptoSquareTests.cs",
+              "RelativeDocumentMoniker": "crypto-square\\CryptoSquareTests.cs",
+              "ToolTip": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\crypto-square\\CryptoSquareTests.cs",
+              "RelativeToolTip": "crypto-square\\CryptoSquareTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:50:17.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,14 +49,10 @@
               "RelativeDocumentMoniker": "crypto-square\\CryptoSquare.cs",
               "ToolTip": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\crypto-square\\CryptoSquare.cs",
               "RelativeToolTip": "crypto-square\\CryptoSquare.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAkwGEAAAASAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAkwH0AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T08:25:46.284Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

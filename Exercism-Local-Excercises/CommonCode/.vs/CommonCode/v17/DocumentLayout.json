@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\1.0-Files\\x.1-bin\\1.5-Github\\DVITI-repository-root\\DVITI-repo\\CommonCode\\",
+  "WorkspaceRootPath": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|c:\\1.0-files\\x.1-bin\\1.5-github\\dviti-repository-root\\dviti-repo\\commoncode\\commoncode\\documentation\\commentsbasedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|c:\\1.0-files\\1.1.1-role-csharp_development_expert\\github-root\\role-csharp_development_expert\\exercism-local-excercises\\commoncode\\commoncode\\documentation\\commentsbasedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|solutionrelative:commoncode\\documentation\\commentsbasedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|c:\\1.0-files\\x.1-bin\\1.5-github\\dviti-repository-root\\dviti-repo\\commoncode\\commoncode\\documentation\\personalnotes-comments_based_structure.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\commoncode\\documentation\\personalnotes-comments_based_structure.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|solutionrelative:commoncode\\documentation\\personalnotes-comments_based_structure.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|C:\\1.0-Files\\x.1-bin\\1.5-Github\\DVITI-repository-root\\DVITI-repo\\CommonCode\\commoncode\\documentation\\personalnotes-comments_based_architecture.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\commoncode\\documentation\\personalnotes-comments_based_architecture.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|solutionrelative:commoncode\\documentation\\personalnotes-comments_based_architecture.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
@@ -22,17 +22,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CommentsBasedArchitecture.cs",
-              "DocumentMoniker": "C:\\1.0-Files\\x.1-bin\\1.5-Github\\DVITI-repository-root\\DVITI-repo\\CommonCode\\CommonCode\\Documentation\\CommentsBasedArchitecture.cs",
+              "DocumentMoniker": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\CommonCode\\Documentation\\CommentsBasedArchitecture.cs",
               "RelativeDocumentMoniker": "CommonCode\\Documentation\\CommentsBasedArchitecture.cs",
-              "ToolTip": "C:\\1.0-Files\\x.1-bin\\1.5-Github\\DVITI-repository-root\\DVITI-repo\\CommonCode\\CommonCode\\Documentation\\CommentsBasedArchitecture.cs",
+              "ToolTip": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\CommonCode\\Documentation\\CommentsBasedArchitecture.cs",
               "RelativeToolTip": "CommonCode\\Documentation\\CommentsBasedArchitecture.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T08:26:42.32Z",
               "EditorCaption": ""
@@ -41,34 +49,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Personalnotes-Comments_Based_Structure.md",
-              "DocumentMoniker": "C:\\1.0-Files\\x.1-bin\\1.5-Github\\DVITI-repository-root\\DVITI-repo\\CommonCode\\CommonCode\\Documentation\\Personalnotes-Comments_Based_Structure.md",
+              "DocumentMoniker": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\CommonCode\\Documentation\\Personalnotes-Comments_Based_Structure.md",
               "RelativeDocumentMoniker": "CommonCode\\Documentation\\Personalnotes-Comments_Based_Structure.md",
-              "ToolTip": "C:\\1.0-Files\\x.1-bin\\1.5-Github\\DVITI-repository-root\\DVITI-repo\\CommonCode\\CommonCode\\Documentation\\Personalnotes-Comments_Based_Structure.md",
+              "ToolTip": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\CommonCode\\Documentation\\Personalnotes-Comments_Based_Structure.md",
               "RelativeToolTip": "CommonCode\\Documentation\\Personalnotes-Comments_Based_Structure.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-07-08T09:20:29.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-07-08T09:20:29.615Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Personalnotes-Comments_Based_Architecture.md",
-              "DocumentMoniker": "C:\\1.0-Files\\x.1-bin\\1.5-Github\\DVITI-repository-root\\DVITI-repo\\CommonCode\\CommonCode\\Documentation\\Personalnotes-Comments_Based_Architecture.md",
+              "DocumentMoniker": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\CommonCode\\Documentation\\Personalnotes-Comments_Based_Architecture.md",
               "RelativeDocumentMoniker": "CommonCode\\Documentation\\Personalnotes-Comments_Based_Architecture.md",
-              "ToolTip": "C:\\1.0-Files\\x.1-bin\\1.5-Github\\DVITI-repository-root\\DVITI-repo\\CommonCode\\CommonCode\\Documentation\\Personalnotes-Comments_Based_Architecture.md",
+              "ToolTip": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\CommonCode\\Documentation\\Personalnotes-Comments_Based_Architecture.md",
               "RelativeToolTip": "CommonCode\\Documentation\\Personalnotes-Comments_Based_Architecture.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-07-08T09:20:20.625Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

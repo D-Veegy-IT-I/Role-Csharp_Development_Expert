@@ -2,7 +2,7 @@ using Xunit;
 
 public class CryptoSquareTests
 {
-    [Fact]
+    [Fact(Skip = "Remove this Skip property to run this test")]
     public void Empty_plaintext_results_in_an_empty_ciphertext()
     {
         var plaintext = "";
@@ -56,5 +56,13 @@ public class CryptoSquareTests
         var plaintext = "If man was meant to stay on the ground, god would have given us roots.";
         var expected = "imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn  sseoau ";
         Assert.Equal(expected, CryptoSquare.Ciphertext(plaintext));
+    }
+
+    [Fact]
+    public void TestingSomeStuffOut()
+    {
+        var plaintext = "If man was meant to stay on the ground, god would have given us roots.";
+        var expected = "ifmanwasmeanttostayonthegroundgodwouldhavegivenusroots";
+        Assert.Equal(expected, CryptoSquare.NormalizedPlaintext(plaintext));
     }
 }
