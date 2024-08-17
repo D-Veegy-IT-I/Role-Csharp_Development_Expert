@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pa9RTNfRaRuHiILFesAvggFpjNmFvpGnr9GiJKJst/E2xRDcixMLSfjJ3gdCY0CWnkXrh4eLixa+6RgxljdOpA==",
+  "dgSpecHash": "QXtuA9bRnclvStohnMMCN7X6tQo15KKLPspu9Dopy8xfMY8a2/tjvrLYw1vbKqbxIn8slIIlyOCZs2NnkML0NA==",
   "success": true,
-  "projectFilePath": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
+  "projectFilePath": "C:\\Users\\tibov\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tibov\\.nuget\\packages\\exercism.tests\\0.1.0-beta1\\exercism.tests.0.1.0-beta1.nupkg.sha512",
     "C:\\Users\\tibov\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",
