@@ -5793,11 +5793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tibov\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
+      "projectUniqueName": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
       "projectName": "LuciansLusciousLasagna",
-      "projectPath": "C:\\Users\\tibov\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
+      "projectPath": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
       "packagesPath": "C:\\Users\\tibov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tibov\\Exercism\\csharp\\lucians-luscious-lasagna\\obj\\",
+      "outputPath": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\lucians-luscious-lasagna\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tibov\\AppData\\Roaming\\NuGet\\NuGet.Config",

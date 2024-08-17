@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LuciansLusciousLasagna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2322aef654c10b7cfd837ce559352419015c596")]
 [assembly: System.Reflection.AssemblyProductAttribute("LuciansLusciousLasagna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LuciansLusciousLasagna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

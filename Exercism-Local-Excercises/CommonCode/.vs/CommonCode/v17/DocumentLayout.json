@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|solutionrelative:commoncode\\documentation\\commentsbasedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tibov\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\commoncode\\documentation\\personalnotes-comments_based_structure.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{61E027C3-EFDF-4530-BA1F-10AD9E3D0EC8}|CommonCode\\CommonCode.csproj|solutionrelative:commoncode\\documentation\\personalnotes-comments_based_structure.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -22,11 +25,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LuciansLusciousLasagna.cs",
+              "DocumentMoniker": "C:\\Users\\tibov\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\tibov\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.cs",
+              "ToolTip": "C:\\Users\\tibov\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\tibov\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:29:52.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -40,14 +56,14 @@
               "RelativeDocumentMoniker": "CommonCode\\Documentation\\CommentsBasedArchitecture.cs",
               "ToolTip": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\CommonCode\\Documentation\\CommentsBasedArchitecture.cs",
               "RelativeToolTip": "CommonCode\\Documentation\\CommentsBasedArchitecture.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAIAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T08:26:42.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Personalnotes-Comments_Based_Structure.md",
               "DocumentMoniker": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\CommonCode\\Documentation\\Personalnotes-Comments_Based_Structure.md",
               "RelativeDocumentMoniker": "CommonCode\\Documentation\\Personalnotes-Comments_Based_Structure.md",
@@ -59,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Personalnotes-Comments_Based_Architecture.md",
               "DocumentMoniker": "C:\\1.0-Files\\1.1.1-Role-Csharp_Development_Expert\\Github-root\\Role-Csharp_Development_Expert\\Exercism-Local-Excercises\\CommonCode\\CommonCode\\Documentation\\Personalnotes-Comments_Based_Architecture.md",
               "RelativeDocumentMoniker": "CommonCode\\Documentation\\Personalnotes-Comments_Based_Architecture.md",
